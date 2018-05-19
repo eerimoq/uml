@@ -4,7 +4,7 @@
 About
 =====
 
-Unified Modeling Language (UML)
+Unified Modeling Language (UML) in Python.
 
 Contributing
 ============
